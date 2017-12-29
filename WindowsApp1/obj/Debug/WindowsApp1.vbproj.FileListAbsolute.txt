@@ -1,0 +1,34 @@
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+D:\Luu tai lieu\VB NET\MaiVanTu_BaiTapGiuaKy2\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+D:\GitCop\vbguibasic\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\GitCop\vbguibasic\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\GitCop\vbguibasic\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\GitCop\vbguibasic\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\GitCop\vbguibasic\WindowsApp1\obj\Debug\WindowsApp1.pdb
